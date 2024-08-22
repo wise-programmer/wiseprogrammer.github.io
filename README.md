@@ -1,3 +1,3 @@
 # impratikpatel.github.io
 
-Portfolio Website
+Pratik Patel Web Site.
